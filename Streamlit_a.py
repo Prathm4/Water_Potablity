@@ -9,7 +9,7 @@ import streamlit as st
 from PIL import Image
 import matplotlib.pyplot as plt
 from statistics import mean
-from matplotlib import pyplot
+
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import RepeatedStratifiedKFold
