@@ -2,8 +2,7 @@
 
 ## Demo app
 
-Launch the app [![Open In Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
-[(https://water-potablity.herokuapp.com/)]
+Launch the app [![Open In Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mridul-sharma01/water_potablity/main/app.py)
 
 ## App info
 
@@ -36,7 +35,7 @@ source path_to_your_virtual_environment/bin/activate
 ```
 3. After getting to the virtual environment's file, install prerequisite packages
 ```
-wget https://raw.githubusercontent.com/GeorgiosDolias/WaterPotability/main/requirements.txt
+wget https://raw.githubusercontent.com/Mridul-Sharma01/WaterPotability/main/requirements.txt
 ```
 and
 ```
@@ -44,11 +43,11 @@ pip install -r requirements.txt
 ```
 4. Dowload and unzip contents from Github repo
 
-Dowload and unzip contents from https://github.com/GeorgiosDolias/WaterPotability/archive/main.zip
+Dowload and unzip contents from https://github.com/Mridul-Sharma01/Water_Potability/archive/main.zip
 
 5. Launch the app
 ```
-streamlit run WaterPotApp.py
+streamlit run Water_Potablity.py
 ```
 
 
@@ -56,12 +55,11 @@ streamlit run WaterPotApp.py
 
 | Package | Version |
 --- | ---
-| streamlit | 0.87.0 |
-| pandas |  1.1.3 |
-| sci-kit learn | 0.23.2 |
-| numpy |  1.19.1 |
+| streamlit | 1.10.0 |
+| pandas |  1.4.2 |
+| sci-kit learn | 1.1.1 |
+| numpy |  1.9.2 |
 
 ## Useful Resources
 
 1.  [Youtube tutorial from Chanin Nantasenamat (Data Professor) ](https://www.youtube.com/watch?v=8M20LyCZDOY )
-2.  [More info about the used dataset on Kaggle](https://www.kaggle.com/adityakadiwal/water-potability ) 
