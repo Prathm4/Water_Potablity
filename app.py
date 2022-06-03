@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import streamlit as st
-from streamlit_ace import st_ace
+
 from PIL import Image
 
 # loading in the model to predict on the data
