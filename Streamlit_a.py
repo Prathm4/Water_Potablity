@@ -7,6 +7,7 @@ import pickle
 import streamlit as st
 
 from PIL import Image
+model = RandomForestClassifier(n_estimators=150, random_state=0,max_depth=40,max_features=8,min_samples_split=2)
 
 import pickle
 pickle_out=open("model.pkl","wb")
