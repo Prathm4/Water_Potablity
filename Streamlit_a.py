@@ -7,7 +7,7 @@ import pickle
 import streamlit as st
 
 from PIL import Image
-import matplotlib.pyplot as plt
+
 from statistics import mean
 
 from sklearn.model_selection import train_test_split
