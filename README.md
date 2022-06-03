@@ -2,8 +2,8 @@
 
 ## Demo app
 
-Launch the app [![Open In Streamlit]((https://water-potablity.herokuapp.com/))]
-(https://share.streamlit.io/georgiosdolias/waterpotability/main/WaterPotApp.py)
+Launch the app [![Open In Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+[(https://water-potablity.herokuapp.com/)]
 
 ## App info
 
