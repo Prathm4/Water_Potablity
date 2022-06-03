@@ -1,4 +1,4 @@
-mkdir -p ~/.streamlit/
+mkdir -p %userprofile%/.streamlit/
 echo "[theme]
 primaryColor = "#FF4B4B"
 backgroundColor = "#0E1117"
