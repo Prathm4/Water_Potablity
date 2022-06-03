@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import streamlit as st
-
+import sklearn
 from PIL import Image
 
 from statistics import mean
