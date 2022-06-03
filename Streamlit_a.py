@@ -1,18 +1,12 @@
-# Water_Potablity
-
-
 import pandas as pd
 import numpy as np
 import pickle
 import streamlit as st
-import sklearn
 from PIL import Image
 
 from statistics import mean
-
-
 from sklearn.ensemble import RandomForestClassifier
-
+from sklearn.preprocessing import StandardScaler
 model = RandomForestClassifier(n_estimators=150, random_state=0,max_depth=40,max_features=8,min_samples_split=2)
 
 import pickle
