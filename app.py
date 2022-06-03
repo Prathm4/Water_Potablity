@@ -26,7 +26,7 @@ def set_bg_hack_url():
          f"""
          <style>
          .stApp {{
-             background: url("https://c0.wallpaperflare.com/preview/583/923/589/water-wave-wallpaper.jpg");
+             background: url("https://images.pexels.com/photos/4194850/pexels-photo-4194850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
              background-size: cover
          }}
          </style>
