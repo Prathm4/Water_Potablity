@@ -7,6 +7,15 @@ import pickle
 import streamlit as st
 
 from PIL import Image
+import matplotlib.pyplot as plt
+from statistics import mean
+from matplotlib import pyplot
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import cross_validate
+from sklearn.model_selection import RepeatedStratifiedKFold
+from sklearn.metrics import plot_confusion_matrix
+from sklearn.ensemble import RandomForestClassifier
+from imblearn.over_sampling import SMOTE
 model = RandomForestClassifier(n_estimators=150, random_state=0,max_depth=40,max_features=8,min_samples_split=2)
 
 import pickle
