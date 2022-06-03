@@ -1,5 +1,5 @@
 # Water_Potablity
-
+df=pd.read_csv(r"C:\Users\mrmri\Downloads\P117\water_potability.csv")
 
 import pandas as pd
 import numpy as np
