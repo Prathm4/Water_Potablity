@@ -8,6 +8,11 @@ import streamlit as st
 
 from PIL import Image
 
+import pickle
+pickle_out=open("model.pkl","wb")
+pickle.dump(model,pickle_out)
+pickle_out.close()
+
 # loading in the model to predict on the data
 pickle_in = open('model.pkl', 'rb')
 classifier = pickle.load(pickle_in)
