@@ -26,14 +26,14 @@ def set_bg_hack_url():
          f"""
          <style>
          .stApp {{
-             background: url("https://st.depositphotos.com/2363887/4481/i/950/depositphotos_44818543-stock-photo-planet-earth-splashing-into-water.jpg");
+             background: url("https://c0.wallpaperflare.com/preview/583/923/589/water-wave-wallpaper.jpg");
              background-size: cover
          }}
          </style>
          """,
          unsafe_allow_html=True
      )
-
+set_bg_hack_url()
 
 # defining the function which will make the prediction using
 # the data which the user inputs
