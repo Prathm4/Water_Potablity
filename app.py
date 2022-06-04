@@ -49,7 +49,7 @@ def main():
     st.title("Water Potability")
 
 
-    st.write('Prediciting the Water Potability with following features that water is potable for drinking purpose or not. If water potability Output is 1 then water potable for drinking purpose whereas If Output is 0 then Water is Non- Potable.') 
+    st.markdown('**Prediciting the Water Potability with following features that water is potable for drinking purpose or not. If water potability Output is 1 then water potable for drinking purpose whereas If Output is 0 then Water is Non- Potable.**') 
     # here we define some of the front end elements of the web page like
     # the font and background color, the padding and the text to be displayed
     html_temp = """
