@@ -1,4 +1,6 @@
-# WaterPotability
+# Water_Potability
+
+Potable water is defined as water that is suitable for human consumption (i.e., water that can be used for drinking or cooking). The term implies that the water is drinkable as well as safe.
 
 ## Demo app
 
@@ -35,7 +37,7 @@ source path_to_your_virtual_environment/bin/activate
 ```
 3. After getting to the virtual environment's file, install prerequisite packages
 ```
-wget https://raw.githubusercontent.com/Mridul-Sharma01/WaterPotability/main/requirements.txt
+wget https://raw.githubusercontent.com/Mridul-Sharma01/Water_Potability/main/requirements.txt
 ```
 and
 ```
@@ -47,7 +49,7 @@ Dowload and unzip contents from https://github.com/Mridul-Sharma01/Water_Potabil
 
 5. Launch the app
 ```
-streamlit run Water_Potablity.py
+streamlit run app.py
 ```
 
 
