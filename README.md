@@ -19,7 +19,7 @@ This repository creates a Data Web App  about safe water for human consumption b
 8. Trihalomethanes
 9. Turbidity
 
-trains a Random Forest Classifier model and, finally, observe the prediction of the trained model.
+Trains a Random Forest Classifier model and, finally, observe the prediction of the trained model.
 
 ## Dataset
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 4. Dowload and unzip contents from Github repo
 
-Dowload and unzip contents from https://github.com/Mridul-Sharma01/Water_Potability/archive/main.zip
+Dowload and unzip contents from https://github.com/Mridul-Sharma01/Water_Potablity/archive/refs/heads/main.zip
 
 5. Launch the app
 ```
