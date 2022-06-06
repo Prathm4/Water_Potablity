@@ -1,6 +1,6 @@
 # Water_Potability
 
-Potable water is defined as water that is suitable for human consumption (i.e., water that can be used for drinking or cooking). The term implies that the water is drinkable as well as safe.
+Potable water is defined as water that is suitable for human consumption (i.e., water that can be used for drinking or cooking). The term implies that the water is drinkable as well as safe. Here we our predicting the water potability i.e Water is Good for human resources or not potable.
 
 ## Demo app
 
@@ -39,7 +39,7 @@ source path_to_your_virtual_environment/bin/activate
 ```
 wget https://raw.githubusercontent.com/Mridul-Sharma01/Water_Potability/main/requirements.txt
 ```
-and
+   and
 ```
 pip install -r requirements.txt
 ```
